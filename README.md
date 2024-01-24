@@ -29,5 +29,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/developercode1)
 
 ---
-
+## 🔗 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elez-dev)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+## 🔗 Github activity graph
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
