@@ -21,3 +21,5 @@
 
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/developercode1)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elez-dev)](https://github.com/ryo-ma/github-profile-trophy)
