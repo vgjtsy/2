@@ -5,10 +5,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Elez-dev&color=red&style=flat)
 
+---
+
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elez-dev&layout=compact&theme=radical)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Elez-dev&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Elez-dev&show_icons=true&theme=radical)
+
+---
 
  ## 👨🏻‍💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
@@ -19,7 +23,11 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 ![WEB3](https://img.shields.io/badge/-web3-090909?style=for-the-badge&logo=ethereum)
 
+---
+
 ## 🔗 Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/developercode1)
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elez-dev)](https://github.com/ryo-ma/github-profile-trophy)
