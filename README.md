@@ -2,9 +2,9 @@
 [![PyPI supported Python versions](https://img.shields.io/badge/Python%203.10.10-8A2BE2)](https://www.python.org/downloads/release/python-31010/)
 
 <div align="center">
-  <img src="https://sun9-65.userapi.com/impg/Qg3R1zobR1A4Y_GrTEaz0l-RsS-VdCtOq9HovQ/VbXmwRFQGU0.jpg?size=1974x1270&quality=96&sign=3a2124b63586768c3d3ad4e09b79e76f&type=album"  />
-  <h1>LAYERZERO GAZ ZIP</h1>
-  <p>Софт на lz.gas.zip - позволяет отправлять в одной транзакции сразу несколько сообщений через LayerZero - он включает в себя 5 дешевых маршрутов и настройку софта под себя</p>
+  <img src="https://dgen.network/wp-content/uploads/2023/03/base1.png"  />
+  <h1>BASE NFT SOFT</h1>
+  <p>Софт для минта NFT от BASE - можно заминтить две бесплатные NFT и прогреть свои аккаунты в данной сети - в будущем в софт будут добавляться другие функции помимо минта NFT</p>
 </div>
 
 ---
@@ -25,33 +25,25 @@
 
 Все настройки происходят в файле _settings.py_ - каждая строчка подписана.
 
+Есть поддрежка уведомлений в тг-бота и перемешивание кошельков.
+
 ---
 <h2>🚀 УСТАНОВКА СОФТА</h2>
 
 ```
-git clone https://github.com/Elez-dev/gasZip.git
-cd gasZip-master
+git clone https://github.com/Elez-dev/Base.git
+cd Base-master
 pip3.10 install -r requirements.txt
 python3.10 main.py
 ```
 ---
 <h2>🤖 ВОЗМОЖНОСТИ СОФТА:</h2>
 
-1. Запуск по выбранным вами настройкам
+1 - Mint Penny NFT
 
-2. Polygon -> Gnosis, Fuse, CoreDAO, Kava, Klaytn, Celo, Harmony, Loot, Moonbeam, Moonriver, Astar, Viction, Beam - LayerZero Fee: $0.73
+2 - Mint COIN Earnings NFT(максимум 2 на аккаунт)
 
-3. Celo -> Fuse, Gnosis, Moonbeam - LayerZero Fee: $0.15
-
-4. Base -> Gnosis, opBNB, Moonbeam, Nova, Zora - LayerZero Fee: $0.41
-
-5. Gnosis -> Fuse, Gnosis, Moonbeam, Klaytn - LayerZero Fee: $0.18
-
-6. Fantom -> Gnosis, Moonbeam, Moonriver, opBNB, Kava, Beam, Celo, Harmony - LayerZero Fee: $0.47
-
-7. Optimism ->  Kava, Gnosis, Fuse, CoreDAO, Moonriver, Viction, Beam, Klaytn, Celo, Harmony, Loot, Moonbeam - LayerZero Fee: $0.57
-
-8. Мега-маршрут: 2-7 модули вместе рандомно - LayerZero Fee: $2.5
+3 - Custom module
 
 ---
 <h2>❤️ По всем вопросам в наш чат - https://t.me/pythondao</h2>
