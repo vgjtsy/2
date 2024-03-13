@@ -4,8 +4,7 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WehIRwTjZydXnttPasC0iQ.jpeg"  />
   <h1>ZKSYNC ERA PAYMASTER</h1>
-  <p>Софт на ZKSYNC ERA - включает в себя возможность делать бескомиссионные свапы(PAYMASTER). 
-Доступны данные платформы: Syncswap, Mune.io, Velocore</p>
+  <p>Софт на ZKSYNC ERA - включает в себя возможность делать бескомиссионные свапы(PAYMASTER). Доступны данные платформы: Syncswap, Mute.io, Velocore</p>
 </div>
 
 ---
@@ -25,6 +24,7 @@
 В папке _data_ заполняем Excel файл с приватными ключами
 
 Все настройки происходят в файле _settings.py_ - каждая строчка подписана
+
 Запускаем через файл _main.py_
 
 ---
@@ -32,9 +32,9 @@
 
 ```
 
-git clone https://github.com/Elez-dev/ZoraAIO.git
+git clone https://github.com/Elez-dev/ZksyncPaymaster.git
 
-cd ZoraAIO-master
+cd ZksyncPaymaster-master
 
 pip3.10 install -r requirements.txt
 
